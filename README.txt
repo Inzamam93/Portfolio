@@ -1,4 +1,4 @@
-Porfoliio site accessible at: https://inzamam93.github.io/Portfolio/
+Porfoliio site accessible at: https://inzamam93.github.io/portfolio/
 
 
 Credits:
